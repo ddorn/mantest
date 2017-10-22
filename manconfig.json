@@ -1,0 +1,22 @@
+{
+    "data_files": [
+        [
+            "..\\..\\..\\..\\..\\..\\Desktop\\mantest",
+            [
+                "..\\..\\..\\..\\Desktop\\mantest\\manconfig.json"
+            ]
+        ]
+    ],
+    "dependancies": [],
+    "description": "",
+    "email": "",
+    "fullname": "",
+    "github_username": "",
+    "libname": "",
+    "package_data": {},
+    "packages": [
+        "mantest"
+    ],
+    "pypi_username": "",
+    "version": "0.0.0"
+}
